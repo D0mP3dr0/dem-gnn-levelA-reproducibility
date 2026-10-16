@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "dem-gnn-levelA-reproducibility"
+abstract: "Code of the study Graph Attention Networks for Multi-Task Terrain Reconstruction from Sparse Spaceborne LiDAR."
+version: 1.0.0
+date-released: 2026-10-16
+license: MIT
+repository-code: "https://github.com/D0mP3dr0/dem-gnn-levelA-reproducibility"
+authors:
+  - family-names: Seelig
+    given-names: Luis Felipe Comodo
+    orcid: "https://orcid.org/0009-0000-6095-3864"
+    affiliation: "Postgraduate Program in Defense Engineering (PGED), Military Institute of Engineering (IME), Rio de Janeiro, Brazil"
+  - family-names: Salles
+    given-names: Ronaldo Moreira
+    orcid: "https://orcid.org/0000-0002-3916-5086"
+    affiliation: "Postgraduate Program in Defense Engineering (PGED), Military Institute of Engineering (IME), Rio de Janeiro, Brazil; CIICESI, ESTG, Polytechnic of Porto, Portugal"
+keywords:
+  - graph neural networks
+  - graph attention networks
+  - digital elevation model
+  - spaceborne LiDAR
+  - terrain reconstruction

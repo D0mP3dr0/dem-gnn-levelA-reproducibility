@@ -1,0 +1,5 @@
+biome,canopy_mean,canopy_max,corr_ndvi_canopy,canopy_forest_mean,canopy_open_mean,canopy_water_mean,canopy_rock_mean
+amazonia,26.5625,49.6875,0.0,28.3125,6.289062,6.265625,6.394531
+cerrado,16.78125,36.75,0.0,18.515625,15.539062,16.015625,15.539062
+mata_atlantica,12.875,48.34375,0.0,14.632812,8.921875,7.144531,9.15625
+pantanal,13.210938,49.8125,0.0,18.46875,9.070312,4.402344,10.257812

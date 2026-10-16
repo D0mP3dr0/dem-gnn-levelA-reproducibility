@@ -1,0 +1,21 @@
+biome,physics_metric,gnn_value,cnn_value
+amazonia,consistency,9.041895,N/A (not tracked)
+amazonia,terrain,1.588355,N/A (not tracked)
+amazonia,water_flow,15.779958,0.099
+amazonia,river_width,3.610922,N/A (not tracked)
+amazonia,geomorph,9.578503,N/A (not tracked)
+cerrado,consistency,18.984255,N/A (not tracked)
+cerrado,terrain,-1.40852,N/A (not tracked)
+cerrado,water_flow,70.815987,0.682
+cerrado,river_width,5.198941,N/A (not tracked)
+cerrado,geomorph,-4.594964,N/A (not tracked)
+mata_atlantica,consistency,5.479,N/A (not tracked)
+mata_atlantica,terrain,0.430203,N/A (not tracked)
+mata_atlantica,water_flow,21.909349,1.352
+mata_atlantica,river_width,4.036213,N/A (not tracked)
+mata_atlantica,geomorph,-3.057164,N/A (not tracked)
+pantanal,consistency,11.488299,N/A (not tracked)
+pantanal,terrain,37.941319,N/A (not tracked)
+pantanal,water_flow,4.10051,0.107
+pantanal,river_width,1.472666,N/A (not tracked)
+pantanal,geomorph,-2.810625,N/A (not tracked)

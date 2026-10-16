@@ -1,0 +1,5 @@
+biome,gnn_mae_lidar,gnn_mae_no_lidar,gnn_gap_ratio,gnn_p90_with_lidar,gnn_p90_no_lidar,cnn_mae_anchor,cnn_mae_non_anchor,cnn_gap_ratio
+amazonia,3.09242,2.709886,0.876299,6.471451,5.589622,9.62,156.42,0.063
+cerrado,2.621652,2.200417,0.839324,5.322370,4.531586,13.92,117.54,0.029
+mata_atlantica,2.095485,2.096618,1.000540,4.847204,4.184753,16.17,525.14,0.031
+pantanal,3.406852,2.792755,0.819746,5.536044,3.352081,3.19,50.28,0.123

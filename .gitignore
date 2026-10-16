@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+*.ckpt
+*.pt
+*.npy
+*.tif
+*.tiff
+.env
+.venv/
+*.log
+.DS_Store
+Thumbs.db

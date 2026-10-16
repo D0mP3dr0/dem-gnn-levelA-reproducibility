@@ -1,0 +1,27 @@
+metadata:
+- - dem
+  - sentinel
+  - lidar
+- - - dem
+    - adjacent_to
+    - dem
+  - - sentinel
+    - belongs_to
+    - dem
+  - - lidar
+    - belongs_to
+    - dem
+  - - lidar
+    - near_to
+    - dem
+  - - lidar
+    - near_to
+    - lidar
+model_config:
+  hidden_dim: 512
+  num_layers: 6
+  heads: 4
+  dropout: 0.1
+loss_config: null
+optimizer_config: null
+phase: 1
